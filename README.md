@@ -10,9 +10,10 @@ Clone repo
 git clone git@github.com:rvallo/certbot-wedosWAPI.git
 ```
 
-Edit
+Copy and edit
 
 ```
+cp credentials.sh.example credentials.sh
 vim credentials.sh
 ``` 
 
